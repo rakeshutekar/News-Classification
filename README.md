@@ -20,14 +20,15 @@ This project demonstrates how to use BERT for classifying news articles into var
 
 Training the Model
 Navigate to the src directory and run the training script:
-
-cd src
-python train.py
-1. Evaluating the Model
+1. Train
+   ``` 
+   cd src
+   python train.py
+2. Evaluating the Model
    After training, you can evaluate the model:
    ```bash
    python evaluate.py
-2. Inference
+3. Inference
 You can use the trained model to classify new headlines:
    ```bash
    python inference.py
