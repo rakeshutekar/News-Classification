@@ -8,7 +8,7 @@ This project demonstrates how to use BERT for classifying news articles into var
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/news-classification.git
+   git clone https://github.com/rakeshutekar/news-classification.git
    cd news-classification
 2. **Install Dependencies**
     ```bash
